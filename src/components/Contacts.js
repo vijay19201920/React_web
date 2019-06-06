@@ -14,7 +14,7 @@ class Contacts extends Component {
                                     <div className="col-lg-4 col-md-12 col-xs-12">
                                         <div className="form-group">
                                             <i className="contact-icon fa fa-user"></i>
-                                            <input type="text" className="form-control" id="name" placeholder="Full Name" required data-error="Please enter your name" />
+                                            <input type="text" className="form-control" id="" placeholder="Full Name" required data-error="Please enter your name" />
                                             <div className="help-block with-errors"></div>
                                         </div>
                                     </div>
